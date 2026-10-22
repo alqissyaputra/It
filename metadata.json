@@ -1,0 +1,7 @@
+{
+  "name": "Aplikasi Presensi Siswa SMA IT AL ITTIHAD",
+  "description": "Sistem Presensi Siswa Real-time SMA IT AL ITTIHAD berbasis QR Code, Rekap Bulanan PDF & Excel, Pemantauan Sholat & Ekstrakurikuler, Notifikasi Orang Tua, serta Sinkronisasi API.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
